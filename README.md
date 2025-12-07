@@ -1,174 +1,317 @@
 <div align="center">
-🌟 Hi there, I'm Mira!
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Generative+AI+Specialist+%E2%9C%A8;Building+Intelligent+Systems+%F0%9F%9A%80;Multilingual+Developer+%F0%9F%8C%8D" alt="Typing SVG" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-💜 AI Engineer | Generative AI Enthusiast | Healthcare AI Innovator
+Show Image
+</div>
+<div align="center">
+🤖 Building Intelligent Systems That Make a Difference
+Show Image
+Show Image
 Show Image
 Show Image
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-🎯 About Me
+👩‍💻 About Me
 pythonclass MiraMamdoh:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.location = "Cairo, Egypt 🇪🇬"
-        self.current_work = [
-            "AI/ML Model Development",
-            "Healthcare AI @ 57357 Hospital",
-            "Generative AI Solutions"
-        ]
-        self.languages = {
-            "human": ["Arabic 🇪🇬", "English 🇬🇧", "German 🇩🇪", 
-                     "French 🇫🇷", "Chinese 🇨🇳"],
-            "machine": ["Python", "C#", "SQL"]
-        }
-        self.passions = [
-            "Building AI that matters",
-            "Healthcare Innovation",
-            "Automation & MLOps"
-        ]
+    """AI Engineer passionate about healthcare innovation and intelligent automation"""
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+    def __init__(self):
+        self.name = "Mira Mamdoh Yousef"
+        self.role = "AI Engineer & Generative AI Specialist"
+        self.location = "Cairo, Egypt 🇪🇬"
+        self.education = "B.Sc. Computer Science - Egyptian E-Learning University (2021-2025)"
+        
+        # Current Work
+        self.current_positions = {
+            "AI Engineer": "Remote | Jan 2025 - Present",
+            "AI Intern": "Children's Cancer Hospital Egypt 57357 | Present"
+        }
+        
+        # Expertise
+        self.specializations = [
+            "Natural Language Processing (NLP)",
+            "Generative AI & Large Language Models",
+            "MLOps & Model Deployment",
+            "AI Automation Systems",
+            "Healthcare AI Applications"
+        ]
+        
+        # Languages
+        self.languages = {
+            "Native": "Arabic 🇪🇬",
+            "Professional": "English 🇬🇧",
+            "Learning": ["German 🇩🇪", "French 🇫🇷", "Chinese 🇨🇳"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Building end-to-end AI automation pipelines",
+            "Applying AI to solve healthcare challenges",
+            "Exploring cutting-edge Generative AI technologies"
+        ]
 
-me = MiraMamdoh()
-me.say_hi()
-<br clear="right"/>
+# Let's connect and build something amazing! 🚀
 
-🚀 What I Do
+🛠️ Technical Skills
 <table>
 <tr>
-<td width="50%">
-🤖 AI Automation
-yamlfocus:
-  - Question Generation Systems
-  - Sentiment Analysis Pipelines
-  - End-to-End ML Workflows
-  
-tools:
-  - Gemini 2.0 Flash API
-  - LangChain & OpenAI
-  - FastAPI + .NET Integration
-  
-achievement: "90% user satisfaction rate"
-</td>
-<td width="50%">
-🏥 Healthcare AI
-yamlrole: "AI Intern @ 57357 Hospital"
-mission:
-  - Applying AI to save lives
-  - Data-driven medical solutions
-  - Collaborative innovation
-  
-impact: "Real-world healthcare impact"
-</td>
-</tr>
-</table>
+<td width="50%" valign="top">
+🤖 AI & Machine Learning
+Frameworks & Libraries
 
-💻 Tech Arsenal
-<div align="center">
-🧠 AI & Machine Learning
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+Show Image Python (Advanced)
+Show Image TensorFlow
+Show Image PyTorch
+Show Image Scikit-learn
+
+Specialized Skills
+
+Natural Language Processing (NLP)
+LSTM & Transformer Models (BERT)
+Model Training & Fine-tuning
+Hyperparameter Optimization
+
+</td>
+<td width="50%" valign="top">
 ✨ Generative AI & NLP
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🛠️ Development & Tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
+Platforms & APIs
 
-🌟 Spotlight Projects
-<div align="center">
-<table>
+Show Image OpenAI API
+Show Image Hugging Face
+Show Image Gemini 2.0 Flash API
+Show Image LangChain
+
+Core Competencies
+
+Prompt Engineering
+LLM Integration & Orchestration
+Text Generation & Classification
+Sentiment Analysis
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
-🎓 Question Generation AI
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-Automated MCQ Generation from PDFs
-🔹 Built with Gemini 2.0 Flash API
-🔹 FastAPI + .NET integration
-🔹 90% user satisfaction
-🔹 MLOps best practices
-Python NLP Prompt Engineering
+💻 Development & Deployment
+Backend & APIs
+
+Show Image FastAPI
+Show Image .NET & C#
+Show Image SQL & T-SQL
+Entity Framework
+
+Tools & Practices
+
+RESTful API Development
+Model Versioning & Monitoring
+CI/CD for ML Models
+Docker & Containerization
+
 </td>
 <td width="50%" valign="top">
-🎬 Sentiment Analysis
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-Kaggle Movie Reviews Challenge
-🔹 LSTM + BERT models
-🔹 88% accuracy achieved
-🔹 TensorFlow & Hugging Face
-🔹 Full MLOps pipeline
-Deep Learning NLP Transformers
+📊 Data Science & Analysis
+Data Processing
+
+Show Image Pandas & NumPy
+Show Image NLTK & PyPDF2
+Data Cleaning & Preprocessing
+Feature Engineering
+
+Analysis & Visualization
+
+Statistical Analysis
+Data Visualization
+WordCloud & Matplotlib
+Business Intelligence
+
 </td>
 </tr>
 </table>
+
+🚀 Featured Projects
+<div align="center">
+🎓 Automated Question Generation from Educational PDFs
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Duration-Sep%202024%20--%20Jun%202025-blue?style=for-the-badge" />
+</div>
+📌 Overview
+Intelligent system that automatically generates high-quality multiple-choice questions from educational PDF documents using advanced NLP and Generative AI.
+🔧 Technology Stack
+Python Gemini 2.0 Flash API FastAPI .NET/C# Entity Framework PyPDF2 NLTK
+✨ Key Achievements
+
+✅ Built complete end-to-end AI automation pipeline
+✅ Integrated Gemini 2.0 Flash API for intelligent question generation
+✅ Developed FastAPI server with .NET backend integration
+✅ Implemented MLOps practices for deployment and monitoring
+✅ Achieved 90% user satisfaction rate through fine-tuned prompt engineering
+✅ Led 3-member development team with timely delivery
+
+🎯 Technical Highlights
+
+PDF text extraction and preprocessing with PyPDF2
+Tokenization and data cleaning using NLTK
+Custom prompt engineering for optimal question quality
+Parameter tuning (Temperature, TopP) for question diversity
+RESTful API architecture for seamless integration
+
+
+<div align="center">
+🎬 Sentiment Analysis on Movie Reviews (Kaggle Competition)
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Accuracy-88%25-brightgreen?style=for-the-badge" />
+</div>
+📌 Overview
+Machine learning solution for sentiment classification of movie reviews, participating in Kaggle competition with focus on model optimization and performance.
+🔧 Technology Stack
+Python TensorFlow LSTM BERT Hugging Face TF-IDF Word Embeddings
+✨ Key Achievements
+
+✅ Achieved 88% accuracy on test dataset
+✅ Successfully fine-tuned BERT transformer model
+✅ Implemented complete MLOps workflow
+✅ Created comprehensive data visualization with WordCloud
+✅ Collaborated with data engineering team on pipeline optimization
+
+🎯 Technical Highlights
+
+Advanced text preprocessing (tokenization, stop word removal)
+TF-IDF and Word Embedding techniques
+LSTM neural network architecture
+BERT model fine-tuning with Hugging Face
+Model versioning and performance tracking
+F1-score and accuracy-based evaluation
+
+
+💼 Professional Experience
+<table>
+<tr>
+<th>Position</th>
+<th>Organization</th>
+<th>Duration</th>
+<th>Key Responsibilities</th>
+</tr>
+<tr>
+<td><strong>AI Engineer</strong></td>
+<td>Remote Position</td>
+<td>Jan 2025 - Present</td>
+<td>
+- Leading AI/ML model development<br>
+- Mentoring junior team members<br>
+- Collaborating on innovative solutions
+</td>
+</tr>
+<tr>
+<td><strong>AI Intern</strong></td>
+<td>Children's Cancer Hospital<br>Egypt 57357</td>
+<td>Present</td>
+<td>
+- Healthcare AI applications<br>
+- Data-driven medical solutions<br>
+- Cross-functional collaboration
+</td>
+</tr>
+<tr>
+<td><strong>Generative AI TOT Trainee</strong></td>
+<td>Sprints</td>
+<td>Feb 2025 - Mar 2025</td>
+<td>
+- Advanced Generative AI training<br>
+- Deployment strategies<br>
+- Best practices & methodologies
+</td>
+</tr>
+<tr>
+<td><strong>Generative AI Trainee</strong></td>
+<td>Sprints</td>
+<td>Jan 2025 - Mar 2025</td>
+<td>
+- OpenAI & Hugging Face tools<br>
+- LangChain implementation<br>
+- 30% efficiency improvement
+</td>
+</tr>
+<tr>
+<td><strong>ML Intern</strong></td>
+<td>Prodigy InfoTech</td>
+<td>Sep 2024 - Nov 2024</td>
+<td>
+- Classification model development<br>
+- Model monitoring systems<br>
+- Pipeline optimization
+</td>
+</tr>
+<tr>
+<td><strong>ML Intern</strong></td>
+<td>Mentorness</td>
+<td>May 2024 - Jun 2024</td>
+<td>
+- Predictive modeling<br>
+- Performance optimization<br>
+- Technical documentation
+</td>
+</tr>
+<tr>
+<td><strong>Data Analyst</strong></td>
+<td>Mentorness</td>
+<td>Apr 2024 - May 2024</td>
+<td>
+- Data analysis (Pandas, SQL)<br>
+- Automated reporting<br>
+- Data quality assurance
+</td>
+</tr>
+</table>
+
+🎓 Education & Certifications
+<table>
+<tr>
+<td width="50%" valign="top">
+🎓 Academic Education
+Bachelor of Science in Computer Science
+Egyptian E-Learning University
+📅 January 2021 - January 2025
+Specialization: Artificial Intelligence & Machine Learning
+</td>
+<td width="50%" valign="top">
+📜 Professional Certifications
+✅ Certified Data Scientist - 365 Data Science
+✅ Introduction to LLMs - 365 Data Science
+✅ Data Analysis Diploma - Road Mentors
+✅ Delivering Quality Work with Agility - IBM (Coursera)
+✅ Statistical Data Analysis - SRTA-City
+</td>
+</tr>
+</table>
+
+🌍 Language Proficiency
+<div align="center">
+LanguageProficiency LevelFluency🇪🇬 ArabicNative/Bilingual████████████ 100%🇬🇧 EnglishProfessional Working██████████░░ 90%🇩🇪 GermanElementary████░░░░░░░░ 35%🇫🇷 FrenchLimited Working███░░░░░░░░░ 25%🇨🇳 ChineseElementary██░░░░░░░░░░ 20%
 </div>
 
-🎓 Learning Journey
-<details>
-<summary>📚 <b>Click to see my certifications & training!</b></summary>
+📊 GitHub Statistics
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+<br><br>
+Show Image
+</div>
+
+🏆 GitHub Achievements
+<div align="center">
+Show Image
+</div>
+
+📫 Let's Connect
+<div align="center">
+I'm always open to interesting conversations and collaboration opportunities!
 <br>
-🏆 Certifications
-CertificateProviderYear🎖️ Certified Data Scientist365 Data Science2024🤖 Intro to LLMs365 Data Science2024📊 Data Analysis DiplomaRoad Mentors2024-2025⚡ Delivering Quality Work with AgilityIBM via Coursera2025
-💼 Professional Training
-mermaidgantt
-    title My AI Journey Timeline
-    dateFormat YYYY-MM
-    section Training
-    Statistical Analysis (SRTA-City)    :2023-08, 2023-09
-    Data Analyst (Mentorness)           :2024-04, 2024-05
-    ML Intern (Mentorness)              :2024-05, 2024-06
-    ML Intern (Prodigy InfoTech)        :2024-09, 2024-11
-    Data Analysis Diploma (Road Mentors):2024-10, 2025-02
-    Generative AI (Sprints)             :2025-01, 2025-03
-    section Current
-    AI Engineer (Remote)                :2025-01, 2025-12
-    AI Intern (57357 Hospital)          :2025-01, 2025-12
-</details>
-
-🌍 Languages I Speak
-<div align="center">
-🗣️ Language📊 Proficiency🎯 Level🇪🇬 Arabic███████████████████████ 100%Native🇬🇧 English████████████████████░░░ 90%Professional🇩🇪 German████████░░░░░░░░░░░░░░░ 35%Elementary🇫🇷 French██████░░░░░░░░░░░░░░░░░ 25%Limited🇨🇳 Chinese████░░░░░░░░░░░░░░░░░░░ 20%Elementary
-</div>
-
-📊 GitHub Analytics
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</div>
-
-🎨 Contribution Graph
-<div align="center">
 Show Image
-</div>
-
-🏆 GitHub Trophies
-<div align="center">
+Show Image
+Show Image
+<br>
 Show Image
 </div>
 
 <div align="center">
-💜 Let's Build the Future Together!
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-📬 Reach Out!
+💭 "The best way to predict the future is to invent it." - Alan Kay
+<br>
 Show Image
-Show Image
-Show Image
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
-"The best way to predict the future is to invent it." - Alan Kay
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
