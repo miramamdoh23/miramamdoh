@@ -188,7 +188,7 @@ me.say_hello()
 
 <div align="center">
 
-<!-- PROJECT 1 -->
+<!-- PROJECT ROW 1 -->
 <table>
 <tr>
 <td width="50%">
@@ -259,6 +259,71 @@ Classifies movie reviews as positive/negative using deep learning models (LSTM +
 - ✅ Data visualization
 
 **📅 Status:** Ongoing
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT ROW 2 -->
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🧠 Brain Tumor Classification System</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Medical_AI-Healthcare-EF4444?style=for-the-badge&logo=heart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Accuracy-76%25-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="200"/>
+
+</div>
+
+**🎯 What it does:**  
+AI-powered medical imaging system that classifies brain tumors from MRI scans into four categories: Glioma, Meningioma, Pituitary, and No Tumor
+
+**🔧 Built with:**
+- 🔬 OpenCV & Scikit-Learn
+- 🚀 XGBoost Classifier
+- 🤖 Support Vector Machine (SVM)
+- 📊 PCA Dimensionality Reduction
+- 📈 Matplotlib & Seaborn
+
+**✨ Key Achievements:**
+- ✅ 76% classification accuracy
+- ✅ Multi-class tumor detection
+- ✅ Advanced feature engineering with PCA
+- ✅ Comprehensive model evaluation
+- ✅ Medical imaging preprocessing pipeline
+- ✅ Robust confusion matrix analysis
+
+**🔬 Technical Highlights:**
+- 📸 MRI image preprocessing & normalization
+- 🎯 Dimensionality reduction for efficiency
+- 🧪 Train-test split validation
+- 📊 Multi-metric evaluation framework
+
+**📅 Timeline:** ML Internship Project
+
+</td>
+<td width="50%">
+
+<div align="center" style="padding: 50px 0;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+
+<br/><br/>
+
+<h3>🚀 More Projects Coming Soon!</h3>
+
+<p>Currently working on exciting new AI projects<br/>Stay tuned for updates! 💜</p>
+
+</div>
 
 </td>
 </tr>
