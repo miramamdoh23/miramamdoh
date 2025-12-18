@@ -1,4 +1,4 @@
-<!-- ============================= HEADER ============================= -->
+ر<!-- ============================= HEADER ============================= -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mira%20Mamdoh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20QA%20Engineer%20|%20Generative%20AI%20Specialist%20|%20Healthcare%20AI%20Innovator&descAlignY=55&descSize=18"/>
@@ -323,6 +323,63 @@ Automatically generates intelligent multiple-choice questions from educational P
 <tr>
 <td width="50%">
 
+<h3 align="center">💬 GenAI Chatbot Testing Framework</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GenAI-Chatbot_Testing-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tests-51_Passing-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/miramamdoh23/chatbot-testing-framework">
+<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200"/>
+
+</div>
+
+**🎯 What it does:**  
+Professional testing framework for GenAI chatbots with 51 comprehensive test cases covering conversation flows, intent recognition, response quality, and context management
+
+**🔧 Built with:**
+- 💬 Python Mock Chatbot
+- 🧪 Pytest Testing Framework
+- 🧠 Intent Classification System
+- 📊 Response Quality Metrics
+- 🗃️ Context Management Testing
+
+**✨ Key Achievements:**
+- ✅ 51 comprehensive test cases (100% passing)
+- ✅ Intent recognition testing (90%+ accuracy)
+- ✅ Multi-turn conversation flow validation
+- ✅ Response quality assessment
+- ✅ Context handling & memory testing
+- ✅ 0.35s execution time for full suite
+
+**🔬 Test Coverage:**
+- 12 Intent recognition tests
+- 10 Conversation flow tests
+- 11 Response quality tests
+- 18 Context handling tests
+
+**🎯 Skills Demonstrated:**
+- GenAI chatbot testing
+- Conversational AI validation
+- NLP testing methodologies
+- Professional QA practices
+
+**📁 Full Implementation:**
+Complete source code, test suites, and mock chatbot available on GitHub with detailed documentation
+
+**📅 Status:** Completed & Production-Ready
+
+</td>
+<td width="50%">
+
 <h3 align="center">🎬 Sentiment Analysis ML Model</h3>
 
 <div align="center">
@@ -363,6 +420,14 @@ Classifies movie reviews as positive/negative using deep learning models (LSTM +
 **📅 Status:** Ongoing Kaggle Competition
 
 </td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT ROW 3 -->
+<table>
+<tr>
 <td width="50%">
 
 <h3 align="center">🧠 Brain Tumor Classification System</h3>
