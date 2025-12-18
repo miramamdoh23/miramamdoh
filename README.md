@@ -1,14 +1,14 @@
 <!-- ============================= HEADER ============================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mira%20Mamdoh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Generative%20AI%20Specialist%20|%20Healthcare%20Innovator&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mira%20Mamdoh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20QA%20Engineer%20|%20Generative%20AI%20Specialist%20|%20Healthcare%20AI%20Innovator&descAlignY=55&descSize=18"/>
 
 </div>
 
 <!-- ============================= ANIMATED INTRO ============================= -->
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI+Systems+That+Transform+Healthcare+%F0%9F%8F%A5;Specializing+in+Generative+AI+%26+NLP+%F0%9F%A4%96;Fluent+in+5+Languages+%7C+Multilingual+Developer+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI+Systems+That+Transform+Healthcare+%F0%9F%8F%A5;AI+QA+Engineer+%7C+Testing+GenAI+%26+ML+Models+%F0%9F%A4%96;Fluent+in+5+Languages+%7C+Multilingual+Developer+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/>
 
@@ -17,6 +17,9 @@
 </a>
 <a href="https://www.linkedin.com/in/mira-mamdoh-a9aa78224">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/miramamdoh23">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Location-Cairo,_Egypt-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=00B8D4" alt="Location"/>
@@ -39,9 +42,9 @@
 ### Hi there! 👋 I'm Mira
 
 🎓 **Recent Graduate** in Computer Science with a passion for AI innovation  
-🤖 **AI Engineer** building intelligent systems that make real impact  
+🤖 **AI QA Engineer** specializing in testing intelligent systems  
 🏥 **Healthcare AI Intern** at Children's Cancer Hospital Egypt 57357  
-🌟 **Generative AI Specialist** with expertise in NLP and MLOps
+🌟 **Generative AI Specialist** with expertise in NLP, MLOps, and AI Testing
 
 <br/>
 
@@ -55,21 +58,22 @@ class MiraMamdoh:
         self.current_work = {
             "role_1": "AI Engineer (Remote)",
             "role_2": "AI Intern @ 57357 Hospital",
-            "focus": "Healthcare AI & Automation"
+            "focus": "AI QA & Healthcare AI Solutions"
         }
         
         self.expertise = [
+            "AI/ML Testing & Quality Assurance",
+            "API Testing (FastAPI, Postman, Selenium)",
+            "Generative AI & Large Language Models",
             "Natural Language Processing (NLP)",
-            "Generative AI & Large Language Models", 
             "MLOps & Production Deployment",
-            "End-to-End ML Pipeline Development",
             "Healthcare AI Applications"
         ]
         
         self.languages = ["Arabic", "English", "German", "French", "Chinese"]
         
     def say_hello(self):
-        print("👋 Let's build something amazing together!")
+        print("👋 Let's build and test amazing AI systems together!")
 
 me = MiraMamdoh()
 me.say_hello()
@@ -139,6 +143,33 @@ me.say_hello()
 </tr>
 </table>
 
+### 🧪 Testing & QA Tools
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" width="65" height="65" />
+<br><strong>Pytest</strong>
+</td>
+<td align="center" width="140">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
+<br><strong>Postman</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="Selenium" width="65" height="65" />
+<br><strong>Selenium</strong>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="65" height="65" />
+<br><strong>API Testing</strong>
+</td>
+<td align="center" width="140">
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Testing" width="65" height="65" />
+<br><strong>Mock Testing</strong>
+</td>
+</tr>
+</table>
+
 ### 💻 Development & Backend
 
 <table>
@@ -172,7 +203,7 @@ me.say_hello()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
@@ -193,6 +224,55 @@ me.say_hello()
 <tr>
 <td width="50%">
 
+<h3 align="center">🧪 AI API Testing Framework</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Testing-Automated-success?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tests-14%20Passing-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/miramamdoh23/ai-api-testing-framework">
+<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200"/>
+
+</div>
+
+**🎯 What it does:**  
+Comprehensive API testing framework for AI/ML applications with 14 automated test cases covering endpoint validation, error handling, and model response testing
+
+**🔧 Built with:**
+- 🧪 Pytest & Mock Testing
+- 🐍 Python 3.9+
+- 📊 pytest-html for reporting
+- 🔄 pytest-cov for coverage
+- 🎯 API response validation
+
+**✨ Key Achievements:**
+- ✅ 14 comprehensive test cases (100% passing)
+- ✅ Mock-based testing for reliability
+- ✅ Response structure validation
+- ✅ Performance testing (< 2s SLA)
+- ✅ Error scenario coverage (404, 400, 401, 429)
+- ✅ Professional HTML test reports
+
+**🔬 Technical Skills Demonstrated:**
+- API endpoint testing
+- Mock testing implementation
+- pytest parametrization
+- Response validation
+- Error handling verification
+
+**📅 Status:** Completed & Production-Ready
+
+</td>
+<td width="50%">
+
 <h3 align="center">🎓 AI Question Generation System</h3>
 
 <div align="center">
@@ -207,7 +287,7 @@ me.say_hello()
 </div>
 
 **🎯 What it does:**  
-Automatically generates intelligent multiple-choice questions from educational PDF documents using Gemini 2.0 Flash API
+Automatically generates intelligent multiple-choice questions from educational PDF documents using Gemini 2.0 Flash API with 90% user satisfaction
 
 **🔧 Built with:**
 - 🤖 Gemini 2.0 Flash API
@@ -221,11 +301,26 @@ Automatically generates intelligent multiple-choice questions from educational P
 - ✅ 90% user satisfaction rate
 - ✅ Advanced prompt engineering
 - ✅ MLOps best practices
-- ✅ Led 3-member dev team
+- ✅ Led 3-member development team
+- ✅ PDF processing & NLP integration
+
+**🔬 Technical Skills:**
+- Generative AI implementation
+- API integration & testing
+- Full-stack development
+- Team leadership
 
 **📅 Timeline:** Sep 2024 - Jun 2025
 
 </td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT ROW 2 -->
+<table>
+<tr>
 <td width="50%">
 
 <h3 align="center">🎬 Sentiment Analysis ML Model</h3>
@@ -242,7 +337,7 @@ Automatically generates intelligent multiple-choice questions from educational P
 </div>
 
 **🎯 What it does:**  
-Classifies movie reviews as positive/negative using deep learning models (LSTM + BERT)
+Classifies movie reviews as positive/negative using deep learning models (LSTM + BERT) with 88% accuracy on test dataset
 
 **🔧 Built with:**
 - 🧠 TensorFlow & PyTorch
@@ -252,23 +347,22 @@ Classifies movie reviews as positive/negative using deep learning models (LSTM +
 - 📈 MLOps Pipeline
 
 **✨ Key Achievements:**
-- ✅ 88% accuracy on test set
+- ✅ 88% classification accuracy
 - ✅ BERT model fine-tuning
 - ✅ Complete MLOps workflow
 - ✅ Advanced NLP techniques
-- ✅ Data visualization
+- ✅ Comprehensive data visualization
+- ✅ Model evaluation & validation
 
-**📅 Status:** Ongoing
+**🔬 Technical Skills:**
+- Deep learning for NLP
+- Model training & optimization
+- Feature engineering
+- Model evaluation
+
+**📅 Status:** Ongoing Kaggle Competition
 
 </td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT ROW 2 -->
-<table>
-<tr>
 <td width="50%">
 
 <h3 align="center">🧠 Brain Tumor Classification System</h3>
@@ -285,7 +379,7 @@ Classifies movie reviews as positive/negative using deep learning models (LSTM +
 </div>
 
 **🎯 What it does:**  
-AI-powered medical imaging system that classifies brain tumors from MRI scans into four categories: Glioma, Meningioma, Pituitary, and No Tumor
+AI-powered medical imaging system that classifies brain MRI scans into four categories: Glioma, Meningioma, Pituitary, and No Tumor
 
 **🔧 Built with:**
 - 🔬 OpenCV & Scikit-Learn
@@ -295,35 +389,20 @@ AI-powered medical imaging system that classifies brain tumors from MRI scans in
 - 📈 Matplotlib & Seaborn
 
 **✨ Key Achievements:**
-- ✅ 76% classification accuracy
-- ✅ Multi-class tumor detection
+- ✅ 76% multi-class classification accuracy
 - ✅ Advanced feature engineering with PCA
 - ✅ Comprehensive model evaluation
 - ✅ Medical imaging preprocessing pipeline
-- ✅ Robust confusion matrix analysis
+- ✅ Confusion matrix analysis
+- ✅ Train-test split validation
 
-**🔬 Technical Highlights:**
-- 📸 MRI image preprocessing & normalization
-- 🎯 Dimensionality reduction for efficiency
-- 🧪 Train-test split validation
-- 📊 Multi-metric evaluation framework
+**🔬 Technical Skills:**
+- Computer vision for medical imaging
+- Machine learning classification
+- Feature extraction & reduction
+- Model validation
 
 **📅 Timeline:** ML Internship Project
-
-</td>
-<td width="50%">
-
-<div align="center" style="padding: 50px 0;">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
-
-<br/><br/>
-
-<h3>🚀 More Projects Coming Soon!</h3>
-
-<p>Currently working on exciting new AI projects<br/>Stay tuned for updates! 💜</p>
-
-</div>
 
 </td>
 </tr>
@@ -350,11 +429,12 @@ AI-powered medical imaging system that classifies brain tumors from MRI scans in
 </td>
 <td width="70%">
 
-**Leading AI/ML Development**
+**Leading AI/ML Development & Testing**
 - 🚀 Developing and deploying production ML models
-- 👥 Mentoring junior engineers
+- 🧪 Implementing comprehensive AI testing frameworks
+- 👥 Mentoring junior engineers on best practices
 - 🤝 Cross-functional collaboration on AI solutions
-- 📊 Driving innovation in AI automation
+- 📊 Driving innovation in AI automation & QA
 
 </td>
 </tr>
@@ -369,8 +449,9 @@ AI-powered medical imaging system that classifies brain tumors from MRI scans in
 </td>
 <td width="70%">
 
-**Healthcare AI Innovation**
+**Healthcare AI Innovation & Quality Assurance**
 - 🏥 Applying AI to real healthcare challenges
+- 🧪 Testing and validating medical AI models
 - 📈 Building data-driven medical solutions
 - 🔬 Collaborating with medical professionals
 - 💡 Exploring AI applications in cancer treatment
@@ -426,11 +507,12 @@ AI-powered medical imaging system that classifies brain tumors from MRI scans in
 </td>
 <td width="70%">
 
-**Machine Learning Development**
+**Machine Learning Development & Testing**
 - 🧠 Built classification models (Scikit-learn, TensorFlow)
+- 🧪 Model validation and performance testing
 - ⚙️ Hyperparameter tuning & optimization
 - 📊 Model monitoring systems
-- 🔄 Pipeline optimization
+- 🔄 ML pipeline optimization
 
 </td>
 </tr>
@@ -545,19 +627,48 @@ AI-powered medical imaging system that classifies brain tumors from MRI scans in
 <table>
 <tr>
 <td align="center" width="33%">
+<img src="https://img.shields.io/badge/Postman-Student_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<br/>
+<strong>Postman</strong>
+<br/>
+<sub>API Testing Certification</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Software-Testing-00C7B7?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<br/>
+<strong>Multiple Platforms</strong>
+<br/>
+<sub>QA & Testing Methodologies</sub>
+</td>
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/Certified-Data_Scientist-10B981?style=for-the-badge&logo=databricks&logoColor=white"/>
 <br/>
 <strong>365 Data Science</strong>
+<br/>
+<sub>Data Science Specialization</sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Introduction-to_LLMs-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
 <br/>
 <strong>365 Data Science</strong>
+<br/>
+<sub>Large Language Models</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Generative_AI-Training-10B981?style=for-the-badge&logo=openai&logoColor=white"/>
+<br/>
+<strong>Sprints Egypt</strong>
+<br/>
+<sub>GenAI Development</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Data_Analysis-Diploma-8B5CF6?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 <br/>
 <strong>Road Mentors</strong>
+<br/>
+<sub>Analytics Certification</sub>
 </td>
 </tr>
 <tr>
@@ -566,17 +677,17 @@ AI-powered medical imaging system that classifies brain tumors from MRI scans in
 <br/>
 <strong>IBM via Coursera</strong>
 <br/>
-<sub>August 2025</sub>
+<sub>Agile Methodologies</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Statistical-Data_Analysis-F59E0B?style=for-the-badge&logo=scipy&logoColor=white"/>
 <br/>
 <strong>SRTA-City</strong>
+<br/>
+<sub>Statistical Methods</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Generative_AI-Training-10B981?style=for-the-badge&logo=openai&logoColor=white"/>
-<br/>
-<strong>Sprints Egypt</strong>
+
 </td>
 </tr>
 </table>
@@ -631,93 +742,4 @@ AI-powered medical imaging system that classifies brain tumors from MRI scans in
 <br/>
 <sub>🟡 Limited</sub>
 <br/>
-<img src="https://progress-bar.dev/25?title=Fluency&width=120&color=f59e0b"/>
-</td>
-<td align="center" width="20%">
-<img src="https://em-content.zobj.net/thumbs/120/apple/354/flag-china_1f1e8-1f1f3.png" width="50"/>
-<br/>
-<strong>Chinese</strong>
-<br/>
-<sub>🟡 Elementary</sub>
-<br/>
-<img src="https://progress-bar.dev/20?title=Fluency&width=120&color=ef4444"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-</details>
-
-<br/>
-
-<!-- ============================= GITHUB STATS ============================= -->
-<details open>
-<summary><h2>📊 GitHub Statistics</h2></summary>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
-
-</details>
-
-<br/>
-
-<!-- ============================= CONNECT ============================= -->
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
-
-<h2>💜 Let's Connect & Build Something Amazing!</h2>
-
-<p>
-I'm always excited to collaborate on innovative AI projects, especially in healthcare!<br/>
-Feel free to reach out for discussions about AI, Machine Learning, or just to say hi! 👋
-</p>
-
-<br/>
-
-<a href="mailto:miramamdoh10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
-</a>
-<a href="https://www.linkedin.com/in/mira-mamdoh-a9aa78224">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="35"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="35"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
-<h3>💭 "The best way to predict the future is to invent it." - Alan Kay</h3>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
-
-</div>
+<img src="https://progress-bar.dev/25?title=Fluency&width=120&color=f59e
