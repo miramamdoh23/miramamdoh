@@ -1,4 +1,4 @@
-ر<!-- ============================= HEADER ============================= -->
+<!-- ============================= HEADER ============================= -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mira%20Mamdoh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20QA%20Engineer%20|%20Generative%20AI%20Specialist%20|%20Healthcare%20AI%20Innovator&descAlignY=55&descSize=18"/>
@@ -428,6 +428,63 @@ Classifies movie reviews as positive/negative using deep learning models (LSTM +
 <!-- PROJECT ROW 3 -->
 <table>
 <tr>
+<td width="50%">
+
+<h3 align="center">🧠 LLM Reliability & Regression Testing</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced-LLM_Testing-9333EA?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tests-13_Passing-success?style=for-the-badge&logo=pytest&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/miramamdoh23/LLM-Reliability-Testing-Framework-">
+<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200"/>
+
+</div>
+
+**🎯 What it does:**  
+Advanced testing framework for non-deterministic LLM systems using semantic similarity, behavioral validation, and statistical reliability metrics to detect regressions across model updates
+
+**🔧 Built with:**
+- 🧠 Sentence-BERT Embeddings
+- 🧪 Pytest Framework
+- 📊 Statistical Metrics
+- 🎯 Semantic Similarity Engine
+- 📈 Regression Detection System
+
+**✨ Key Achievements:**
+- ✅ 13 comprehensive test cases (92% reliability)
+- ✅ Semantic similarity testing (not string matching)
+- ✅ Behavioral validation framework
+- ✅ Baseline regression detection
+- ✅ Temperature effect analysis
+- ✅ Outlier detection system
+
+**🔬 Advanced Testing:**
+- Non-deterministic output validation
+- Consistency metrics (92% reliability)
+- Cross-version comparison
+- Statistical stability analysis
+
+**🎯 Skills Demonstrated:**
+- LLM testing methodologies
+- NLP semantic analysis
+- Statistical validation
+- Advanced AI QA practices
+
+**📁 Complete Framework:**
+Full semantic similarity engine, reliability metrics calculator, baseline comparison system, and comprehensive test suites with detailed documentation
+
+**📅 Status:** Production-Ready Testing Framework
+
+</td>
 <td width="50%">
 
 <h3 align="center">🧠 Brain Tumor Classification System</h3>
