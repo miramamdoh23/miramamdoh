@@ -282,6 +282,12 @@ Comprehensive API testing framework for AI/ML applications with 14 automated tes
 
 <br/><br/>
 
+<a href="https://github.com/miramamdoh23/QuizGen-API">
+<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200"/>
 
 </div>
