@@ -224,6 +224,65 @@ me.say_hello()
 <tr>
 <td width="50%">
 
+<h3 align="center">🔬 AI QA Automation Framework</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Production-QA_Framework-00C7B7?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tests-40+_Passing-success?style=for-the-badge&logo=pytest&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/miramamdoh23/ai-qa-automation-framework">
+<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200"/>
+
+</div>
+
+**🎯 What it does:**  
+Professional automated testing framework for AI/ML systems with 40+ test cases covering hallucination detection, performance testing, security vulnerabilities, and CI/CD integration
+
+**🔧 Built with:**
+- 🧪 Pytest Framework
+- 🐍 Python 3.9+
+- 🔄 GitHub Actions CI/CD
+- 📊 pytest-html Reporting
+- 🎯 Requests HTTP Client
+
+**✨ Key Achievements:**
+- ✅ 40+ comprehensive test cases
+- ✅ Hallucination detection (15+ tests)
+- ✅ Performance & load testing (15+ tests)
+- ✅ Security vulnerability detection (10+ tests)
+- ✅ CI/CD pipeline with GitHub Actions
+- ✅ Automated test reports generation
+
+**🔬 Test Coverage:**
+- Hallucination detection for RAG systems
+- API performance & SLA compliance
+- Prompt injection resistance
+- Jailbreak attempt prevention
+- Load testing & scalability
+
+**🎯 Skills Demonstrated:**
+- Advanced AI/ML testing
+- Security testing (prompt injection, jailbreaks)
+- Performance testing & load testing
+- CI/CD automation
+- Professional QA practices
+
+**📁 Complete Implementation:**
+Full test suites, mock API client, GitHub Actions workflow, and comprehensive documentation with test cases in JSON format
+
+**📅 Status:** Production-Ready Framework
+
+</td>
+<td width="50%">
+
 <h3 align="center">🧪 AI API Testing Framework</h3>
 
 <div align="center">
@@ -271,6 +330,14 @@ Comprehensive API testing framework for AI/ML applications with 14 automated tes
 **📅 Status:** Completed & Production-Ready
 
 </td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT ROW 2 -->
+<table>
+<tr>
 <td width="50%">
 
 <h3 align="center">🎓 AI Question Generation System</h3>
@@ -324,7 +391,7 @@ Automatically generates intelligent multiple-choice questions from educational P
 
 <br/>
 
-<!-- PROJECT ROW 2 -->
+<!-- PROJECT ROW 3 -->
 <table>
 <tr>
 <td width="50%">
@@ -431,7 +498,7 @@ Classifies movie reviews as positive/negative using deep learning models (LSTM +
 
 <br/>
 
-<!-- PROJECT ROW 3 -->
+<!-- PROJECT ROW 4 -->
 <table>
 <tr>
 <td width="50%">
