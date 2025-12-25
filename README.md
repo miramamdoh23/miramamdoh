@@ -640,7 +640,7 @@ AI-powered medical imaging system that classifies brain MRI scans into four cate
 <td width="30%">
 <img src="https://img.shields.io/badge/AI_Intern-57357_Hospital-EF4444?style=for-the-badge"/>
 <br/>
-<sub><strong> t</strong></sub>
+<sub><strong> </strong></sub>
 </td>
 <td width="70%">
 
@@ -654,7 +654,7 @@ AI-powered medical imaging system that classifies brain MRI scans into four cate
 </td>
 </tr>
 
-<tr><td colspan="2"><hr/></td></tr>
+<tr><td colspan="2"> Mar 2025 <hr/></td></tr>
 
 <tr>
 <td width="30%">
